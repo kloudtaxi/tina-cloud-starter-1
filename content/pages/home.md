@@ -9,19 +9,15 @@ blocks:
       all together in pages/\[filename].tsx, all based on a schema defined in
       .tina/schema.ts.
     actions:
-      - label: Get Started
+      - label: Action Label
         type: button
         icon: true
-        link: /posts
-      - label: Read Blog
-        type: link
-        icon: false
-        link: /posts
+        link: /
     image:
       src: >-
         https://res.cloudinary.com/forestry-demo/image/upload/v1628102029/tina-cloud-starter/tina-illustration.WebP
       alt: Tina
-    color: default
+    color: tint
     _template: hero
   - items:
       - icon:
