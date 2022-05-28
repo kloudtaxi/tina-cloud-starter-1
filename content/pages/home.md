@@ -9,7 +9,7 @@ blocks:
       all together in pages/\[filename].tsx, all based on a schema defined in
       .tina/schema.ts.
     actions:
-      - label: Action Label
+      - label: Apply for Membership
         type: button
         icon: true
         link: /
