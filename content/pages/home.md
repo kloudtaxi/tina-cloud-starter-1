@@ -13,6 +13,10 @@ blocks:
         type: button
         icon: true
         link: /
+      - label: Become a Citizen
+        type: button
+        icon: true
+        link: /
     image:
       src: >-
         https://res.cloudinary.com/forestry-demo/image/upload/v1628102029/tina-cloud-starter/tina-illustration.WebP
